@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Firman Firdaus Alamanta:',
+              'Nama Saya Firman Firdaus Alamanta, sedang mengikuti TSA Mobile Flutter',
             ),
             Text(
               '$_counter',
